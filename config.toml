@@ -21,7 +21,7 @@ uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 [Music]
-enabled = false # Set to true if you want YouTube Music, or leave false to speed up your build
+enabled = true # CHANGED: Turned on for YouTube Music
 build-mode = "both"
 arch = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
@@ -29,7 +29,7 @@ uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 
 [Reddit-Morphe]
-enabled = false # Set to true if you want to patch Reddit using Morphe too!
+enabled = true # CHANGED: Turned on for patched Reddit
 app-name = "Reddit"
 rv-brand = "Morphe"
 build-mode = "both"
@@ -39,3 +39,13 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 dpi = "120-640dpi"
+
+[Twitter]
+enabled = true # ADDED: For Twitter / X patches
+build-mode = "both"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/twitter-inc/twitter/"
+
+[Instagram]
+enabled = true # ADDED: For Instagram patches
+build-mode = "both"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram/"
