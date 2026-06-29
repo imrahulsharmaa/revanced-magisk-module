@@ -51,13 +51,13 @@ patches-source = "brosssh/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
 rv-brand = "Morphe"
 build-mode = "both"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram/"
+uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 
 [Twitter]
 enabled = true
+app-name = "Twitter"
 patches-source = "crimera/piko"
 cli-source = "MorpheApp/morphe-cli"
 rv-brand = "Piko"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter/"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
 build-mode = "both"
+uptodown-dlurl = "https://twitter.en.uptodown.com/android"
