@@ -51,7 +51,8 @@ patches-source = "brosssh/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
 rv-brand = "Morphe"
 build-mode = "both"
-uptodown-dlurl = "https://instagram.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram/"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.instagram.android"
 
 [Twitter]
 enabled = true
