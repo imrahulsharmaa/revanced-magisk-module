@@ -44,21 +44,4 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 dpi = "120-640dpi"
 
-[Instagram]
-enabled = true
-app-name = "Instagram"
-patches-source = "brosssh/morphe-patches"
-cli-source = "MorpheApp/morphe-cli"
-rv-brand = "Morphe"
-build-mode = "both"
-uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 
-[Twitter]
-enabled = true
-app-name = "Twitter"
-patches-source = "crimera/piko"
-cli-source = "MorpheApp/morphe-cli"
-rv-brand = "Piko"
-build-mode = "both"
-version = "10.49.0-release.0"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
