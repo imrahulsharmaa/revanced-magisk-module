@@ -45,12 +45,12 @@ You can consider using [rvmm-zygisk-mount](https://github.com/j-hc/rvmm-zygisk-m
 ## Building Locally
 ### On Termux
 ```console
-bash <(curl -sSf https://raw.githubusercontent.com/j-hc/revanced-magisk-module/main/build-termux.sh)
+bash <(curl -sSf https://raw.githubusercontent.com/imrahulsharmaa/revanced-magisk-module/main/build-termux.sh)
 ```
 
 ### On Linux
 ```console
-$ git clone https://github.com/j-hc/revanced-magisk-module --depth 1
+$ git clone https://github.com/imrahulsharmaa/revanced-magisk-module --depth 1
 $ cd revanced-magisk-module
 $ ./build.sh
 ```
